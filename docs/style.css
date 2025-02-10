@@ -26,3 +26,7 @@ header {
 body {
   font-family: "Pretendard-Regular";
 }
+
+#box p {
+  white-space: pre-wrap;
+}
